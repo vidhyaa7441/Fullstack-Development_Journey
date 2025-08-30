@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background: teal;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: static;
+    width: 50%;
+    
+}
+
+.fix {
+    position: fixed;
+    top: 20px;       
+    right: 20px;     
+    background: orange;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+.relative-box {
+    position: relative;
+    top: 20px;
+    left: 40px;
+    background: lightblue;
+    padding: 20px;
+    width: 50%;
+    min-height: 150px;
+}
+
+.absolute-box {
+    position: absolute;
+    top: 60px;
+    left: 50px;
+    background: pink;
+    padding: 20px;
+}
+
+.sticky-box {
+    position: sticky;
+    top: 0;
+    background: green;
+    color: white;
+    padding: 15px;
+    width: 80%;
+    margin-top: 30px;
+}
