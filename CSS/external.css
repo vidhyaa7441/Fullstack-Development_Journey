@@ -1,0 +1,14 @@
+*
+{
+    background-color: #b3ffcc;
+}
+h1{
+    color: blueviolet;
+    font-size: 32px;
+    font-family: 'Times New Roman';
+}
+p{
+    background-color: bisque;
+    font-size: 18px;
+    line-height: 1.6;
+}
