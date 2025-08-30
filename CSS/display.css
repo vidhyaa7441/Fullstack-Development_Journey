@@ -1,0 +1,52 @@
+.content
+{
+    margin-left:20px;
+    color:darkblue;
+    text-align: center;
+}
+.main
+{
+    margin:50px;
+}
+#box1
+{
+    height: 100px;
+    width: 200px;
+    background: teal;
+    display: block;
+}
+#box2
+{
+    height: 100px;
+    width: 200px;
+    background: cyan;
+    display: inline;
+}
+#box3
+{
+    height: 100px;
+    width: 200px;
+    background: green;
+    display: inline-block;
+}
+#box4
+{
+    height: 100px;
+    width: 200px;
+    background: palevioletred;
+    display: inline;
+}
+#box5
+{
+    height: 100px;
+    width: 200px;
+    background: purple;
+    display: inline-block;
+}
+#box6
+{
+    height: 100px;
+    width: 200px;
+    background: orange;
+    display: inline-block;
+}
