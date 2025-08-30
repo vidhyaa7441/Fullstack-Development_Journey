@@ -1,0 +1,37 @@
+.intro h1{
+    text-align: center;
+}
+.box
+{
+    display: flex;
+    padding:40px;
+    margin:20px;
+    justify-content: center;
+    background-color: rgb(80, 72, 238);
+    text-align:center;
+    width:40%;
+}
+.box > div{
+    background-color: rgb(248, 248, 58);
+    width: 50px;
+    height:50px;
+    margin: 10px;
+    font-size: 35px;
+}
+.box1
+{
+    display: flex;
+    padding:40px;
+    margin:20px;
+    justify-content: space-around;
+    background-color: rgb(80, 72, 238);
+    width:40%;
+}
+.box1 > div{
+    background-color: rgb(248, 248, 58);
+    width: 50px;
+    height:50px;
+    margin: 10px;
+    font-size: 35px;
+    text-align: center;
+}
